@@ -43,7 +43,7 @@
                     document.body.style.backgroundColor = '#047751';
                     break;
                 case 'meu site':
-                    window.location.href = 'https://www.jetersonlordano.com.br';
+                    window.location.href = 'https://www.google.com.br';
                     break;
             }
 
