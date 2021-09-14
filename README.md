@@ -37,7 +37,7 @@ Below is a table of functions.
 
 | COMMAND | DESCRIPTION |
 | ------ | ------ |
-| lighten | [Makes page lighter] |
-| darken | [Makes page darker] |
-| search for + phrase | [Do a Google search] |
-| my website | [Redirects to a specific site] |
+| clarear | [Makes page lighter] |
+| escurecer | [Makes page darker] |
+| buscar por + phrase | [Do a Google search] |
+| meu site | [Redirects to a specific site] |
